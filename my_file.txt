@@ -1,0 +1,6 @@
+Mi nombre es Jona
+Mi apellido es Alfaro
+24 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta C#
+Y PHP

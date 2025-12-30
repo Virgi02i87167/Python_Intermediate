@@ -1,6 +1,5 @@
 ### File Handling ###
 
-import xml
 import csv
 import json
 import os

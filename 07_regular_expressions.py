@@ -45,10 +45,10 @@ print(re.sub("Expresiones Regulares", "RegEx", my_string))
 
 ### Regular Expressions Patterns ###
 
-pattern = r"[lL]ección"
+pattern = r"lección|Leccion"
 print(re.findall(pattern, my_string))
 
-pattern = r"[lL]ección|Expresiones"
+pattern = r"lección|Leccion|Expresiones"
 print(re.findall(pattern, my_string))
 
 pattern = r"[0-9]"
